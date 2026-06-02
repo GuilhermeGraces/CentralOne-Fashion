@@ -2,3 +2,4 @@
 2- Cadastrar o usuario
 3- Autenticar o Usuário
 4- Registrar produtos
+5- Registrar vendas

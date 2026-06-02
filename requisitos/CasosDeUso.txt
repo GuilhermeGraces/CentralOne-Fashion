@@ -1,3 +1,4 @@
 1- Consultar o Histórico
 2- Cadastrar o usuario
 3- Autenticar o Usuário
+4- Registrar produtos
